@@ -1,0 +1,33 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-console": false,
+        "interface-name": false,
+        "object-literal-sort-keys": false,
+        "max-classes-per-file": false,
+        "no-undef": "off",
+        "object-curly-spacing": [1, "always"],
+        "indent": [true, "spaces", 4],
+        "quotemark": [true, "single", "jsx-double", "backtick"],
+        "trailing-comma": false,
+        "typedef": [
+            true,
+            "call-signature",
+            "arrow-call-signature",
+            "parameter",
+            "arrow-parameter",
+            "property-declaration",
+            "member-variable-declaration",
+            "object-destructuring",
+            "array-destructuring"
+        ],
+        "arrow-parens": false,
+        "no-inferrable-types": [true, "ignore-params", "ignore-properties"],
+        "semicolon": [true, "always", "ignore-bound-class-methods", "ignore-interfaces"],
+        "member-ordering": false
+    }
+}

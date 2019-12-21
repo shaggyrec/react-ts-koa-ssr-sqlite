@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'CharlevoixPro-Thin';
+  src: url('CharlevoixPro-Thin.eot?#iefix') format('embedded-opentype'),  url('CharlevoixPro-Thin.otf')  format('opentype'),
+	     url('CharlevoixPro-Thin.woff') format('woff'), url('CharlevoixPro-Thin.ttf')  format('truetype'), url('CharlevoixPro-Thin.svg#CharlevoixPro-Thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

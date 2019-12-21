@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "noUnusedLocals": false,
+        "noUnusedParameters": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "jsx": "react",
+        "esModuleInterop": true,
+        "resolveJsonModule": true
+    },
+    "include": [
+        "src/**/**.ts",
+        "test/**/**.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -1,0 +1,10 @@
+node_modules
+.DS_STORE
+.idea
+.tmp
+.cache
+*.swp
+.cache
+dist
+db/db.sqlite
+db/db-test.sqlite

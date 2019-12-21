@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'CharlevoixPro-Bold';
+  src: url('../fonts/CharlevoixPro-Bold/CharlevoixPro-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/CharlevoixPro-Bold/CharlevoixPro-Bold.otf')  format('opentype'),
+	     url('../fonts/CharlevoixPro-Bold/CharlevoixPro-Bold.woff') format('woff'), url('../fonts/CharlevoixPro-Bold/CharlevoixPro-Bold.ttf')  format('truetype'), url('../fonts/CharlevoixPro-Bold/CharlevoixPro-Bold.svg#CharlevoixPro-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CharlevoixPro-Thin';
+  src: url('../fonts/CharlevoixPro-Thin/CharlevoixPro-Thin.eot?#iefix') format('embedded-opentype'),  url('../fonts/CharlevoixPro-Thin/CharlevoixPro-Thin.otf')  format('opentype'),
+	     url('../fonts/CharlevoixPro-Thin/CharlevoixPro-Thin.woff') format('woff'), url('../fonts/CharlevoixPro-Thin/CharlevoixPro-Thin.ttf')  format('truetype'), url('../fonts/CharlevoixPro-Thin/CharlevoixPro-Thin.svg#CharlevoixPro-Thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
